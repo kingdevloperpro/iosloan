@@ -1,0 +1,3 @@
+rootProject.name = "gopal_ios_upd_loan_git"
+include ':app'
+include ':maheshbhai'

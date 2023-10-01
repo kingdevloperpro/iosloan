@@ -1,0 +1,20 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:shape="rectangle"
+    tools:ignore="MissingDefaultResource">
+
+
+    <stroke
+        android:width="@dimen/_1sdp"
+        android:color="@color/mainbgcolor" />
+
+<!--    <corners android:radius="@dimen/_9sdp" />-->
+
+    <gradient
+        android:angle="225"
+        android:endColor="@color/mainbgcolor"
+        android:startColor="@color/mainbgcolor" />
+
+
+
+</shape>
